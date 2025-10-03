@@ -31,3 +31,14 @@ Estimated test time: 1 minute or less
   ```bash
   bash Generator_analysis_ContriMatrix.sh Pathways
   ```
+Pipeline results for test data should be in the following directory:
+  ```bash
+  ./results/
+  ```
+
+## Cite us
+If you use our results or pipeline, please, cite us!
+
+## Contact
+If you have questions, requests, or bugs to report, open an issue in github, or email dledezma@ccg.unam.mx and ednakrz@lcg.unam.mx 
+
