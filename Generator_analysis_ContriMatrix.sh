@@ -30,4 +30,4 @@ else
     exit 1
 fi
 
-echo ">>> Pipeline completado para $DATATYPE ✅"
+echo ">>> Pipeline completado para $DATATYPE"
