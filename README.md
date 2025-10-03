@@ -1,5 +1,5 @@
 # Quantifying_Contribution_TranscriptionFactors_EColi
-Code to quantitatively assess the contribution of transcription factors to biological processes in Escherichia coli
+Code to quantitatively assess the contribution of transcription factors to biological processes in *Escherichia coli*
 
 Description
 This pipeline integrates coexpression analysis to distinguish between transcription factors (TFs) that drive the expression of a process and those that only cooperate with the leading TF.
